@@ -42732,7 +42732,7 @@ case 2:return A.L(o,r)}})
 return A.N($async$nW,r)}}
 A.a61.prototype={}
 A.ra.prototype={
-gmz(){return"images/swimming-man.png"},
+gmz(){return"assets/images/swimming-man.png"},
 As(a){var s,r={},q=a.a
 if(q==null)q=$.Oy()
 r.a=r.b=null
